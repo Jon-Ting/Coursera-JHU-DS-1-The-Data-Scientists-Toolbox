@@ -1,1 +1,1 @@
-I am editing the README file. Adding some more details about the project description.
+Johns Hopkins University The Data Scientists' Toolbox Coursera course assignment.
